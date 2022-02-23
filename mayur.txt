@@ -1,3 +1,2 @@
 Hi Mayur, How are you buddy?
-Hello React!
-How are you React?
+I love React JS
